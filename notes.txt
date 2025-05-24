@@ -1,0 +1,7 @@
+Notes file for keeping track of the resources I use when programming this project
+and some of the more generic methodology details that I am likely going to have to write
+about when it comes to writing up this project in 3rd year.
+
+Useful links:
+https://python.plainenglish.io/scraping-tweets-with-tweepy-python-59413046e788 - general
+introduction to scraping data using twitter.
