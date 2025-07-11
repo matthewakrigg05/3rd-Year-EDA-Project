@@ -1,4 +1,4 @@
 This is the repository containing my university final year project.
 
-The intention here is to take tweets surrounding donald trump from 3 3-month periods, and performing 
-exploratory data analysis on those tweets around the US General Election of 2024z
+The intention here is to create a collection of python scripts to first farm data from reddit where trump is the common topic. Then using this data, I intend to perform three different methods of sentiment analysis in order to compare them directly
+with one another.
