@@ -3,10 +3,9 @@ and some of the more generic methodology details that I am likely going to have 
 about when it comes to writing up this project in 3rd year.
 
 Rough Methodology:
-- Collect loads of articles from various sources across US, UK and AUS+NZ
-- Find common topics by analysing headlines (maybe full texts) using frequency matching and named entities
+- Collect data from reddit discussing trump and his antics
+- Find common topics by analysing titles and common words in the texts using frequency matching and named entities
 
-Useful Links 
-https://www.allsides.com/media-bias/media-bias-chart - political bias of news outlets.
-https://github.com/mattlisiv/newsapi-python - docs for using newsapi in python
+Useful Links
+
 
